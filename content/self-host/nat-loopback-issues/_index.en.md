@@ -113,3 +113,10 @@ For example:
 ```text
 192.168.11.20   rustdesk.example.com
 ```
+
+### 4.Modify LAN hosts mapping through router
+If you are using a Xiaomi router, you can customize the hosts resolution in the Mi Home app. This way you don’t need to modify each terminal.
+Reference link: https://bbs.pcbeta.com/viewthread-1981535-1-1.html
+
+
+
