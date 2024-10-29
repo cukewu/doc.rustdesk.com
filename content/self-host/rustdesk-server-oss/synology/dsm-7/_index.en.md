@@ -32,6 +32,7 @@ Enter the project name `rustdesk-server` and change Source from "Upload compose.
 
 {{% notice note %}}
 You could modify the line with `hbbs` to your NAS's LAN IP temporarily just like the picture. After you verify your server is working, you **should** change back.
+The correct format is:    command: hbbs -r rustdesk.example.com:21117 （It can't just be IP）
 {{% /notice %}}
 
 ![](images/dsm7_creating_project_init.png?v2)
